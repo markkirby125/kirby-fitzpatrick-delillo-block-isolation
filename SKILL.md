@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-delillo-block-isolation
-description: "Extract target functions and contracts into an isolated buffer during complex refactors." Use this when working on fitzpatrick delillo block isolation.
+description: "Extract target functions and contracts into an isolated buffer during complex refactors. Use this when working on fitzpatrick delillo block isolation."
 category: "Writing & Communication"
 triggers:
   - "delillo block isolation"
