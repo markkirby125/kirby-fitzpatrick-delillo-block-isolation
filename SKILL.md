@@ -9,7 +9,7 @@ triggers:
   - "focus target function"
   - "clean room refactor"
 risk: unverified
-author: william-fitzpatrick
+author: paul-kirby
 tags: [kirby, ai-agent, workflow]
 ---
 
